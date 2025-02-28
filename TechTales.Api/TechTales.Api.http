@@ -1,0 +1,6 @@
+@TechTales.Api_HostAddress = http://localhost:5032
+
+GET {{TechTales.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTales.Api", "TechTales.Api\TechTales.Api.csproj", "{E588A170-7E4F-48B8-8C00-9BCD444C4977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTales.Infrastructure", "TechTales.Infrastructure\TechTales.Infrastructure.csproj", "{D7CC3D56-147F-458F-BC9D-D73B86D976E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTales.Application", "TechTales.Application\TechTales.Application.csproj", "{986B67CF-4B40-4EB7-913D-BDC86352837C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTales.Domain", "TechTales.Domain\TechTales.Domain.csproj", "{C75460B2-259B-4D26-BC56-CBE04E669C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTales.Loc", "TechTales.Loc\TechTales.Loc.csproj", "{16F10DDA-4B96-4AC1-83B4-EDB468471DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTales.Persistence", "TechTales.Persistence\TechTales.Persistence.csproj", "{863F6BB7-58C0-4B11-8052-D3B34183A7F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTales.Test", "TechTales.Test\TechTales.Test.csproj", "{E7365B90-E7BE-47DC-8D73-D16AC9D184C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E588A170-7E4F-48B8-8C00-9BCD444C4977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E588A170-7E4F-48B8-8C00-9BCD444C4977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E588A170-7E4F-48B8-8C00-9BCD444C4977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E588A170-7E4F-48B8-8C00-9BCD444C4977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CC3D56-147F-458F-BC9D-D73B86D976E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CC3D56-147F-458F-BC9D-D73B86D976E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CC3D56-147F-458F-BC9D-D73B86D976E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CC3D56-147F-458F-BC9D-D73B86D976E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986B67CF-4B40-4EB7-913D-BDC86352837C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986B67CF-4B40-4EB7-913D-BDC86352837C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986B67CF-4B40-4EB7-913D-BDC86352837C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986B67CF-4B40-4EB7-913D-BDC86352837C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75460B2-259B-4D26-BC56-CBE04E669C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75460B2-259B-4D26-BC56-CBE04E669C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75460B2-259B-4D26-BC56-CBE04E669C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75460B2-259B-4D26-BC56-CBE04E669C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F10DDA-4B96-4AC1-83B4-EDB468471DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F10DDA-4B96-4AC1-83B4-EDB468471DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F10DDA-4B96-4AC1-83B4-EDB468471DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F10DDA-4B96-4AC1-83B4-EDB468471DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863F6BB7-58C0-4B11-8052-D3B34183A7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863F6BB7-58C0-4B11-8052-D3B34183A7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863F6BB7-58C0-4B11-8052-D3B34183A7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863F6BB7-58C0-4B11-8052-D3B34183A7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7365B90-E7BE-47DC-8D73-D16AC9D184C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7365B90-E7BE-47DC-8D73-D16AC9D184C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7365B90-E7BE-47DC-8D73-D16AC9D184C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7365B90-E7BE-47DC-8D73-D16AC9D184C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
