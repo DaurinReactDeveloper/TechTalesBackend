@@ -1,0 +1,479 @@
+[
+  {
+    "ContainingType": "TechTales.Api.Controllers.ChallengesController",
+    "Method": "Delete",
+    "RelativePath": "api/Challenges/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "retoRemove",
+        "Type": "TechTales.Application.Dtos.RetoDto.ChallengesRemoveDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.ChallengesController",
+    "Method": "GetChallenges",
+    "RelativePath": "api/Challenges/GetChallenges",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.ChallengesController",
+    "Method": "GetChallengesForType",
+    "RelativePath": "api/Challenges/GetChallengesForType/{type}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.ChallengesController",
+    "Method": "Post",
+    "RelativePath": "api/Challenges/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "retoAdd",
+        "Type": "TechTales.Application.Dtos.RetoDto.ChallengesAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.ChallengesController",
+    "Method": "Put",
+    "RelativePath": "api/Challenges/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "retoUpdate",
+        "Type": "TechTales.Application.Dtos.RetoDto.ChallengesUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.ChallengesCompletedController",
+    "Method": "Delete",
+    "RelativePath": "api/ChallengesCompleted/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "retosCompletadosRemove",
+        "Type": "TechTales.Application.Dtos.RetosCompletados.ChallengesCompletedRemoveDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.ChallengesCompletedController",
+    "Method": "GetChallengesCompletedByUser",
+    "RelativePath": "api/ChallengesCompleted/GetChallengesCompletedByUser/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.ChallengesCompletedController",
+    "Method": "Post",
+    "RelativePath": "api/ChallengesCompleted/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "completadosAdd",
+        "Type": "TechTales.Application.Dtos.RetosCompletados.ChallengesCompletedAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.CommentsController",
+    "Method": "Delete",
+    "RelativePath": "api/Comments/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "comentarioRemove",
+        "Type": "TechTales.Application.Dtos.ComentarioDto.CommentsRemoveDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.CommentsController",
+    "Method": "GetCommentsByStoriesId",
+    "RelativePath": "api/Comments/GetCommentsByStoriesId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.CommentsController",
+    "Method": "GetCommentsByUserId",
+    "RelativePath": "api/Comments/GetCommentsByUserId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.CommentsController",
+    "Method": "GetCountCommentByStoriesId",
+    "RelativePath": "api/Comments/GetCountCommentByStoriesId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.CommentsController",
+    "Method": "Post",
+    "RelativePath": "api/Comments/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "comentarioAdd",
+        "Type": "TechTales.Application.Dtos.ComentarioDto.CommentsAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.StoriesController",
+    "Method": "Delete",
+    "RelativePath": "api/Stories/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "removeDto",
+        "Type": "TechTales.Application.Dtos.HistoriaDto.StoriesRemoveDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.StoriesController",
+    "Method": "GetStories",
+    "RelativePath": "api/Stories/GetStories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.StoriesController",
+    "Method": "GetStoriesByUserId",
+    "RelativePath": "api/Stories/GetStoriesByUserId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.StoriesController",
+    "Method": "Post",
+    "RelativePath": "api/Stories/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "historiaAdd",
+        "Type": "TechTales.Application.Dtos.HistoriaDto.StoriesAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.StoriesController",
+    "Method": "Put",
+    "RelativePath": "api/Stories/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "historiaUpdate",
+        "Type": "TechTales.Application.Dtos.HistoriaDto.StoriesUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "Delete",
+    "RelativePath": "api/Users/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioRemove",
+        "Type": "TechTales.Application.Dtos.UsuarioDto.UsersRemoveDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "GetUser",
+    "RelativePath": "api/Users/GetUser/{email}/{password}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "GetUserAdmin",
+    "RelativePath": "api/Users/GetUserAdmin/{email}/{password}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "GetUserById",
+    "RelativePath": "api/Users/GetUserById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Users/GetUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "GetUserWithGoogle",
+    "RelativePath": "api/Users/GetUserWithGoogle/{email}/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "RegisterWithGoogle",
+    "RelativePath": "api/Users/RegisterWithGoogle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioAdd",
+        "Type": "TechTales.Application.Dtos.UsuarioDto.UsersAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "Post",
+    "RelativePath": "api/Users/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioAdd",
+        "Type": "TechTales.Application.Dtos.UsuarioDto.UsersAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "PostAdmin",
+    "RelativePath": "api/Users/SaveAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioAdd",
+        "Type": "TechTales.Application.Dtos.UsuarioDto.UsersAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.UsersController",
+    "Method": "Put",
+    "RelativePath": "api/Users/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioUpdate",
+        "Type": "TechTales.Application.Dtos.UsuarioDto.UsersUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.VotesStoriesController",
+    "Method": "GetVotesByStoriesId",
+    "RelativePath": "api/VotesStories/GetVotesByStoriesId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechTales.Api.Controllers.VotesStoriesController",
+    "Method": "Post",
+    "RelativePath": "api/VotesStories/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "votosHistoriaAdd",
+        "Type": "TechTales.Application.Dtos.VotosHistoriasDto.VotesStoriesAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

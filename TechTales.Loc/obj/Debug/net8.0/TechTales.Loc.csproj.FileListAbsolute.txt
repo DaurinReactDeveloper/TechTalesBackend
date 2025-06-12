@@ -1,0 +1,44 @@
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Loc.deps.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Loc.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Loc.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.AssemblyInfoInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.AssemblyInfo.cs
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.csproj.CoreCompileInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.sourcelink.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\refint\TechTales.Loc.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\ref\TechTales.Loc.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.csproj.AssemblyReference.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Application.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Domain.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Infrastructure.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Persistence.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Application.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Domain.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Infrastructure.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Persistence.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTale.7203FAAE.Up2Date
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Loc.deps.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Loc.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Loc.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Application.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Domain.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Infrastructure.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Persistence.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Application.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Domain.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Infrastructure.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\bin\Debug\net8.0\TechTales.Persistence.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.csproj.AssemblyReference.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.AssemblyInfoInputs.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.AssemblyInfo.cs
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.sourcelink.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTale.7203FAAE.Up2Date
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\refint\TechTales.Loc.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\TechTales.Loc.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Loc\obj\Debug\net8.0\ref\TechTales.Loc.dll

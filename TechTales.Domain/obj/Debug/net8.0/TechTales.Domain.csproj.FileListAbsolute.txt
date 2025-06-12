@@ -1,0 +1,30 @@
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Debug\net8.0\TechTales.Domain.deps.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Debug\net8.0\TechTales.Domain.runtimeconfig.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Debug\net8.0\TechTales.Domain.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Debug\net8.0\TechTales.Domain.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.csproj.AssemblyReference.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.AssemblyInfoInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.AssemblyInfo.cs
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.sourcelink.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\refint\TechTales.Domain.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.genruntimeconfig.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\ref\TechTales.Domain.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Debug\net8.0\TechTales.Domain.deps.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Debug\net8.0\TechTales.Domain.runtimeconfig.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Debug\net8.0\TechTales.Domain.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Debug\net8.0\TechTales.Domain.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.csproj.AssemblyReference.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.AssemblyInfoInputs.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.AssemblyInfo.cs
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.sourcelink.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\refint\TechTales.Domain.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\TechTales.Domain.genruntimeconfig.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Debug\net8.0\ref\TechTales.Domain.dll

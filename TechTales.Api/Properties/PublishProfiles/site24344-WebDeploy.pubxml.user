@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6GbgWQHJOE+SQLJDMvSOiAAAAAACAAAAAAAQZgAAAAEAACAAAACmP4UY7EqYWgj8JXGB7jlqGpNcrnyK5cxz1z6v7fOAbgAAAAAOgAAAAAIAACAAAABHDsYl/MhmMhih91H8QyIKEoQKMZ43Ki0K+cHt73lFNiAAAAAjgFlH8XEtqCJ2yBUvV8smhy5am49/SVXLRdEC19HwvkAAAAA5dsCZzS5xbogzaWzfGJnaNgddnyXGvcJgBEB0OGgnYnk6zMjgEAQIoeCu3EFgnNfDKvQcZcoSbaAkuVoPv6x2</EncryptedPassword>
+    <History>True|2025-05-01T19:29:02.6011641Z||;True|2025-05-01T15:04:29.3426668-04:00||;True|2025-05-01T14:42:15.2625211-04:00||;True|2025-05-01T02:53:09.1839744-04:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DbTechtalesContext">
+      <Value>server=b710ofpmyjnx47kiweut-mysql.services.clever-cloud.com%3bdatabase=b710ofpmyjnx47kiweut%3buser=upmh4othqtjvfbhl%3bpassword=2WNA9SGe4ir1GSKdi574</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

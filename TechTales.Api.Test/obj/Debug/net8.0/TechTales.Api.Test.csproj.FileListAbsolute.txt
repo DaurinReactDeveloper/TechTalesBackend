@@ -1,0 +1,312 @@
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_TechTales.Api.Test
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\testhost.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.deps.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.runtimeconfig.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.Test.deps.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.Test.runtimeconfig.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.Test.deps.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.Test.runtimeconfig.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\appsettings.Development.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\appsettings.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.staticwebassets.endpoints.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.exe
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\testhost.exe
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.Test.deps.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.Test.runtimeconfig.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.Test.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.Test.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Castle.Core.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\JWT.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Moq.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\MySqlConnector.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Scriban.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.abstractions.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.assert.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.core.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.Test.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Domain.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Infrastructure.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Loc.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.Test.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.Test.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Domain.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Infrastructure.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Loc.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.Test.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.csproj.AssemblyReference.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.AssemblyInfoInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.AssemblyInfo.cs
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.csproj.CoreCompileInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.sourcelink.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTale.A99A5ACB.Up2Date
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\refint\TechTales.Api.Test.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.genruntimeconfig.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\ref\TechTales.Api.Test.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_TechTales.Api.Test
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.runtimeconfig.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.staticwebassets.endpoints.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\testhost.exe
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\testhost.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.deps.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.Test.deps.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.Test.runtimeconfig.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.Test.deps.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.Test.runtimeconfig.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\appsettings.Development.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\appsettings.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.exe
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.Test.deps.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.Test.runtimeconfig.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.Test.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.Test.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Castle.Core.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\JWT.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Moq.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\MySqlConnector.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Scriban.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.abstractions.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.assert.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.core.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.Test.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Domain.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Infrastructure.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Loc.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.Test.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Api.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Application.Test.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Domain.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Infrastructure.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Loc.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\bin\Debug\net8.0\TechTales.Persistence.Test.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.csproj.AssemblyReference.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.AssemblyInfoInputs.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.AssemblyInfo.cs
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.sourcelink.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTale.A99A5ACB.Up2Date
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\refint\TechTales.Api.Test.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\TechTales.Api.Test.genruntimeconfig.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Api.Test\obj\Debug\net8.0\ref\TechTales.Api.Test.dll

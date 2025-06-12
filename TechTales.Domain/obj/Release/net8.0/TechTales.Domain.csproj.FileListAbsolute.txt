@@ -1,0 +1,15 @@
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Release\net8.0\TechTales.Domain.deps.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Release\net8.0\TechTales.Domain.runtimeconfig.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Release\net8.0\TechTales.Domain.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\bin\Release\net8.0\TechTales.Domain.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\TechTales.Domain.csproj.AssemblyReference.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\TechTales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\TechTales.Domain.AssemblyInfoInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\TechTales.Domain.AssemblyInfo.cs
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\TechTales.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\TechTales.Domain.sourcelink.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\TechTales.Domain.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\refint\TechTales.Domain.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\TechTales.Domain.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\TechTales.Domain.genruntimeconfig.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Domain\obj\Release\net8.0\ref\TechTales.Domain.dll

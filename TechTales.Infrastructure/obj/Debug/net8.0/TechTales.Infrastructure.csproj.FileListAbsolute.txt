@@ -1,0 +1,32 @@
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Infrastructure.deps.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Infrastructure.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Infrastructure.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.sourcelink.json
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\refint\TechTales.Infrastructure.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\ref\TechTales.Infrastructure.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Domain.dll
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Domain.pdb
+D:\Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTale.B01FAEB4.Up2Date
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Infrastructure.deps.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Infrastructure.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Infrastructure.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Domain.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\bin\Debug\net8.0\TechTales.Domain.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.csproj.AssemblyReference.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.AssemblyInfoInputs.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.AssemblyInfo.cs
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.sourcelink.json
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTale.B01FAEB4.Up2Date
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\refint\TechTales.Infrastructure.dll
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\TechTales.Infrastructure.pdb
+D:\Mis Proyectos\TechTales\TechtalesBackend\TechTales.Infrastructure\obj\Debug\net8.0\ref\TechTales.Infrastructure.dll

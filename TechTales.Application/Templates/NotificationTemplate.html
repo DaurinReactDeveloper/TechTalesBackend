@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenido a TechTales</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #2E353A;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 600px;
+            margin: 40px auto;
+            background-color: #FFFFFF;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+        .header {
+            background-color: #151F41;
+            color: #FFFFFF;
+            padding: 20px;
+            border-radius: 10px 10px 0 0;
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        .logo {
+            max-width: 120px;
+            margin-top: 10px;
+        }
+
+        .content {
+            padding: 20px;
+            color: #333336;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+            .content p {
+                margin: 12px 0;
+            }
+
+        .cta-btn {
+            display: inline-block;
+            background-color: #151F41;
+            color: #FFFFFF;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        .footer {
+            margin-top: 30px;
+            padding: 15px;
+            background-color: #2E353A;
+            color: #FFFFFF;
+            font-size: 14px;
+            border-radius: 0 0 10px 10px;
+        }
+
+        .unsubscribe {
+            font-size: 12px;
+            color: #AAAAAA;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            🚀 ¡Bienvenido a TechTales, {{ Name }}! ✨
+        </div>
+
+        <div class="content">
+            <p>Hola <strong>{{ Name }}</strong>,</p>
+            <p>¡Nos emociona darte la bienvenida a <strong>TechTales</strong>! Has dado el primer paso para formar parte de una comunidad donde las palabras cobran vida. 🎭📖</p>
+
+            <p><strong>Tu cuenta ha sido creada exitosamente.</strong></p>
+            <p><strong>Correo:</strong> {{ Email }}</p>
+            <p><strong>Fecha de Registro:</strong> {{ DateRegister }}</p>
+            <p><strong>Contraseña:</strong> {{ Password }}</p>
+
+            <p>Para comenzar tu viaje literario, inicia sesión y descubre historias, participa en retos y deja volar tu imaginación.</p>
+
+            <a class="cta-btn" href="https://daurinbarbershop.netlify.app/">Iniciar Sesión</a>
+
+            <p style="font-size: 14px; margin-top: 20px;">⚠️ Por seguridad, te recomendamos cambiar tu contraseña tras el primer inicio de sesión, si se registro con su <strong>cuenta de google</strong>.</p>
+        </div>
+
+        <div class="footer">
+            &copy; 2024 TechTales | Plataforma de escritores y creativos 📚✍️
+            <div class="unsubscribe">
+                Si no deseas recibir más correos, <a href="https://daurinbarbershop.netlify.app/">haz clic aquí para darte de baja</a>.
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
